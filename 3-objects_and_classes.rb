@@ -2,8 +2,8 @@
 # Objects
 #
 # all values are objects, and
-# there is no distiction between
-# primatives types and object 
+# there is no distinction between
+# primitives types and object
 # types. Every thing is an Object!
 #
 # ================================
@@ -21,7 +21,7 @@
   foo = Foo.new
   
 # =================
-# intialize
+# initialize
 # =================
   
   class Person
