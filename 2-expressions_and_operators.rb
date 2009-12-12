@@ -16,7 +16,7 @@
   1 + 2 == 3        # => true: == tests equality
   2 ** 1024         # => 2 to the power of 1024
   "dog" + "pound"   # => "dogpound"
-  "hi " * 3         # => "hi hi hi"
+  "hi " * 3         # => "hi hi hi "
 
 # =================
 # if
@@ -38,9 +38,11 @@
     #...
   end
 
-  # more commenly used like this...
+  # more commonly used like this...
   #
   puts "welcome!" unless ["Jill", "Bob", "Allen"][rand(3)] == "Bob"
+  # or...
+  puts report.path unless report.path.nil?
   
 # =================
 # case
