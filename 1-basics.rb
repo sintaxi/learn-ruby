@@ -11,7 +11,7 @@
   # String
   "a quick brown fox jumps over the lazy dog"
   
-  # Symblol
+  # Symbol
   :name
   
   # Fixnum (integer)
