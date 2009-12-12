@@ -8,7 +8,8 @@
 # ruby.
 
 # =================
-# some operators
+# quick examples of 
+# operators
 # =================
 
   1 + 2             # => 3: addition  
@@ -56,18 +57,4 @@
   else
     #...
   end
-
-
-# operators
-
-
-
-
-
-
-
-
-
-
-
 

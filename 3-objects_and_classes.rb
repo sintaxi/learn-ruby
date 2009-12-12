@@ -36,13 +36,27 @@
   person.name     # => "Jill"
   
 # =================
-# inheritance
+# getters and setters
 # =================
-  
-  class Girl < Person
-    
-    def 
-      
+
+  class Person
+    def eyes
+      @eyes
     end
     
+    def eyes=(color)
+      @eyes = color
+    end
   end
+  
+  # OR
+  
+  class Person
+    attr_accessor :eyes
+  end
+  
+  
+  
+  
+  
+  
