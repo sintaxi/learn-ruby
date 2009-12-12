@@ -34,17 +34,17 @@
 # quacks like a duck
 # =================
 
-  x = "a string"
+  x = "a string"    # x.class => String
   
-  x = 1
+  x = 1             # x.class => Fixnum
   
-  x = 2.3
+  x = 2.3           # x.class => Float
   
-  x = true
+  x = true          # x.class => TrueClass
   
-  x = false
+  x = false         # x.class => FalseClass
   
-  x = nil
+  x = nil           # x.class => NilClass
 
 # =================
 # array
