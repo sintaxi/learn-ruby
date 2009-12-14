@@ -43,7 +43,7 @@
   #
   puts "welcome!" unless ["Jill", "Bob", "Allen"][rand(3)] == "Bob"
   # or...
-  puts report.path unless report.path.nil?
+  # puts report.path unless report.path.nil?
   
 # =================
 # case
