@@ -1,7 +1,5 @@
 # Learn Ruby
 
-Shut the fuck up and show me code!
-
   1. basics
   2. expressions and operators
   3. objects and classes
@@ -9,3 +7,5 @@ Shut the fuck up and show me code!
   5. module and mixins
   6. extend
   7. metaprogramming
+  
+![chunky bacon by _why](http://presentations.sintaxi.com/img/foxes.jpg)
