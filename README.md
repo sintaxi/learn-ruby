@@ -8,4 +8,4 @@
   6. extend
   7. metaprogramming
   
-<img src="http://presentations.sintaxi.com/img/foxes.jpg" alt="chunky bacon by _why" width="100%"></img>
+<img width="100%" alt="chunky bacon by _why" src="https://github.com/user-attachments/assets/f58a8279-1ac8-4ce7-874e-c6752ca16818" />
